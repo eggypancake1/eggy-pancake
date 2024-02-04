@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @eggy-pancake
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i dunno
+mimimi
+
 
 <!---
 eggy-pancake/eggy-pancake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
